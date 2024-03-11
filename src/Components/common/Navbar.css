@@ -1,31 +1,30 @@
 .navbar {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 90px; 
-    background-color: #17202A ;
-    color:white;
-    border-bottom: 1px solid rgb(165, 165, 165);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 90px;
+	background-color: #17202a;
+	color: white;
+	border-bottom: 1px solid rgb(165, 165, 165);
 }
 
 .center-content {
-    display: flex;
-    align-items: center;
+	display: flex;
+	align-items: center;
 }
 
 .logo {
-    width: 40px;
-    height: auto;
-    margin-right: 10px; 
+	width: 40px;
+	height: auto;
+	margin-right: 10px;
 }
 
 .navbar-text {
-    font-size: 18px; 
-    margin: 0;
-    
+	font-size: 18px;
+	margin: 0;
 }
-.gdsclogo{
-    height: 30px;
-    width: 40px;
-    padding-right: 10px;
+.gdsclogo {
+	height: 30px;
+	width: 40px;
+	padding-right: 10px;
 }

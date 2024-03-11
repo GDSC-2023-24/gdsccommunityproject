@@ -37,15 +37,15 @@ const DialogDemo = () => (
 					<fieldset className="Fieldset">
 						<input
 							className="Input"
-							id="name"
-							defaultValue="Pedro Duarte"
+							id="email"
+							defaultValue="Email Address"
 						/>
 					</fieldset>
 					<fieldset className="Fieldset">
 						<input
 							className="Input"
-							id="username"
-							defaultValue="@peduarte"
+							id="password"
+							defaultValue="Password"
 						/>
 					</fieldset>
 				</div>

@@ -2,8 +2,8 @@ import React from 'react'
 import * as Dialog from '@radix-ui/react-dialog'
 import { Cross2Icon } from '@radix-ui/react-icons'
 import './Modal.css'
-import './Buttons.css'
-import Button from './Button'
+import '../common/Buttons.css'
+import Button from '../common/Button'
 
 const DialogDemo = () => (
 	<Dialog.Root>

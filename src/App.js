@@ -4,7 +4,7 @@ import RightSide from './Components/common/RightSide'
 import './App.css'
 // import { Theme } from '@radix-ui/themes'
 import * as Dialog from '@radix-ui/react-dialog'
-import Modal from './Components/common/Modal'
+import Modal from './Components/authInterface/Modal'
 import Button from './Components/common/Button'
 
 function App() {

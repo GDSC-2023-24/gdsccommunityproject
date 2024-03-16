@@ -1,0 +1,68 @@
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1rem 1.5rem;
+	height: 90px;
+	background-color: #17202a;
+	color: white;
+	border-bottom: 1px solid rgb(165, 165, 165);
+}
+
+.nav-logo {
+	display: flex;
+	flex-direction: row;
+	text-decoration: none;
+}
+
+.logo {
+	width: 40px;
+	height: auto;
+	margin-right: 10px;
+}
+
+.navbar-text,
+a {
+	font-size: 18px;
+	margin: 0;
+	color: #fff;
+	text-decoration: none;
+}
+.gdsclogo {
+	height: 30px;
+	width: 40px;
+	padding-right: 10px;
+}
+
+.nav-menu {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.active {
+	color: #ff006e;
+}
+
+.login-btn {
+	display: inline-flex;
+	width: 7rem;
+	height: 1.7rem;
+	align-items: center;
+	justify-content: center;
+	margin: 1rem 0px;
+	border-radius: 30px;
+	font-weight: 550;
+	cursor: pointer;
+	padding: 10px;
+	background-color: #ff006e;
+	color: white;
+	border: none;
+}
+
+.curr-page {
+	display: flex;
+	align-items: center;
+	margin: 1rem;
+}
